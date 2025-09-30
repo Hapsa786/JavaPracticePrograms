@@ -1,4 +1,5 @@
 public class MinLengthWord {
+//Minimum length Program
     public static void main(String[] args) {
         String[] words = {"coffee", "water", "chai", "dietcoke"};
 
